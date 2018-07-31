@@ -6,9 +6,17 @@ Teachers can see the results of all those students who attempted their exam and 
 ![MCBC_Tutorial](https://github.com/u-prashant/MCBC-Exams-Software/blob/master/MCBC%20Tutorials%20Final.mp4)
 
 ## Screenshots
+
+### Home Page
 ![Home Page](https://github.com/u-prashant/MCBC-Exams-Software/blob/master/Screenshots/HomePage.png)
+
+### Teacher Dashboard
 ![Teacher Dashboard](https://github.com/u-prashant/MCBC-Exams-Software/blob/master/Screenshots/TeacherDashboard.png)
+
+### Student Dashboard
 ![Student Dashboard](https://github.com/u-prashant/MCBC-Exams-Software/blob/master/Screenshots/StudentDashboard.png)
+
+### Test Screen
 ![Test Screen](https://github.com/u-prashant/MCBC-Exams-Software/blob/master/Screenshots/TestScreen.png)
 
 ## Errors and bugs
