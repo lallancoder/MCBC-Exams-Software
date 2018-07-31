@@ -3,7 +3,7 @@
 This software enables teachers to upload papers by simply browsing and the students can take test which can be filtered according to teachers, subjects, or the title of the paper.
 Teachers can see the results of all those students who attempted their exam and can also delete the uploaded papers.
 
-[![MCBC Examination Software](http://img.youtube.com/vi/rbvIeXW_prA/0.jpg)](http://www.youtube.com/watch?v=rbvIeXW_prA "MCBC Examination Software")
+[![MCBC Examination Software](https://github.com/u-prashant/MCBC-Exams-Software/blob/master/Screenshots/youtube%20play.png)](http://www.youtube.com/watch?v=rbvIeXW_prA "MCBC Examination Software")
 
 ## Screenshots
 
